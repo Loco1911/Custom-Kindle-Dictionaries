@@ -1,0 +1,12 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "SBL_Hbrw";
+    src: url(fonts/00001.ttf)
+    }
+@font-face {
+    font-family: "SBL_Grk";
+    src: url(fonts/00002.ttf)
+    }
