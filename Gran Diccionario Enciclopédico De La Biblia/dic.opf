@@ -16,19 +16,19 @@
     <item id="cover"
           href="cover.html"
           media-type="application/xhtml+xml" />
-    <item id="usage"
+    <!-- <item id="usage"
           href="usage.html"
-          media-type="application/xhtml+xml" />
+          media-type="application/xhtml+xml" /> -->
     <item id="copyright"
           href="copyright.html"
           media-type="application/xhtml+xml" />
     <item id="content"
-          href="content.html"
+          href="dic001.html"
           media-type="application/xhtml+xml" />
   </manifest>
   <spine>
     <itemref idref="cover" />
-    <itemref idref="usage" />
+    <!-- <itemref idref="usage" /> -->
     <itemref idref="copyright"/>
     <itemref idref="content"/>
   </spine>
